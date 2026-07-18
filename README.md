@@ -5,8 +5,8 @@ Báo cáo đề tài cuối khóa môn **Điện tử cơ bản (ĐTCB)** thực
 ---
 
 ## 👥 Thành viên thực hiện
-* **Nguyễn Duy Tuyên** – MSSV: 2213821
-* **Võ Thái Toàn** – MSSV: 2213543
+* **Nguyễn Duy Tuyên**
+* **Võ Thái Toàn**
 * **Thời gian báo cáo**: 21 tháng 11 năm 2024
 
 ---
