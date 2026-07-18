@@ -69,7 +69,4 @@ Bảng tổng hợp công suất tiêu thụ định mức tối đa của các 
 * **Hệ thống LED (24 bóng)**: $0.066\text{ W} \times 24 = 1.6\text{ W}$
 * **Tổng công suất tiêu thụ toàn mạch**: **5.8 W**
 
----
 
-## 📂 Tài nguyên dự án
-* **Sơ đồ nguyên lý chi tiết & Video Demo sản phẩm**: Bạn có thể truy cập toàn bộ dữ liệu thiết kế mạch và video chạy thực tế tại [Đường dẫn Google Drive Dự Án](https://drive.google.com/drive/folders/1eTwyBuF4C0idJWcl-e5601-npBkVAwrY?usp=drive_link).
